@@ -4,8 +4,9 @@
   "description": "Web 340 Course Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node "
   },
+  "keywords": ["start", "dev"],
   "author": "DeVonte",
-  "license": "ISC"
+  "license": "ISC, MIT",
 }
