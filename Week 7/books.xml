@@ -1,0 +1,38 @@
+<Catalog>
+    <Book>
+        <Title>Animal Farm<Title>
+        <Artist>George Orwell<Artist>
+        <ISBN>999000123<ISBN>
+        <Pages>144<Pages>
+    <Book>
+    <Book>
+        <Title>To Kill A Mockingbird<Title>
+        <Artist>Harper Lee<Artist>
+        <ISBN>111909875<ISBN>
+        <Pages>336<Pages>
+    <Book>
+    <Book>
+        <Title>A Raisin in the Sun<Title>
+        <Artist>Lorraine Hansberry<Artist>
+        <ISBN>999000124<ISBN>
+        <Pages>162<Pages>
+    <Book>
+    <Book>
+        <Title>The Catcher in the Rye<Title>
+        <Artist>J.D. Salinger<Artist>
+        <ISBN>999000125<ISBN>
+        <Pages>288<Pages>
+    <Book>
+    <Book>
+        <Title>The Kite Runner<Title>
+        <Artist>Khaled Hosseini<Artist>
+        <ISBN>999000126<ISBN>
+        <Pages>371<Pages>
+    <Book>
+    <Book>
+        <Title>Treasure Island<Title>
+        <Artist>Robert Louis Stevenson<Artist>
+        <ISBN>999000127<ISBN>
+        <Pages>292<Pages>
+    <Book>
+<Catalog>
